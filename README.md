@@ -27,9 +27,8 @@ Frontend Server
 npm start
 Port 3001
 
-Note: Make sure these tree port are available
+Note: Make sure these three port are available
 
-Rest verify according to document shared.
 
 Thanks
 
